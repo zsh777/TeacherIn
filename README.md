@@ -1,4 +1,4 @@
-# teacherin
+# teacherin  npm版本6.14.6
 
 ## Project setup
 ```
