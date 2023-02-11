@@ -1,0 +1,15 @@
+{
+  "code": "200",
+  "data": {
+    "can_publish": false,
+    "can_delete": false,
+    "can_read": true,
+    "can_edit": false,
+    "can_share": true,
+    "can_fork": true,
+    "can_corp": false,
+    "can_fav": true,
+    "can_publish_ui_visible": true
+  },
+  "message": "ok"
+}

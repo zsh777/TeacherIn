@@ -1,0 +1,9 @@
+{
+"code": "200",
+"data": {
+"user_id": 885,
+"total_capacity": 5,
+"used_capacity": 998491310
+},
+"message": "ok"
+}

@@ -1,0 +1,28 @@
+{
+  "code": "200",
+  "data": [
+    {
+      "name": "课程设计.lms",
+      "path": "课程设计.lms",
+      "sha": "f348bef32c8b0f0f55916deca7419b2811b77d5e",
+      "type": "file",
+      "size": 123,
+      "encoding": "base64",
+      "content": "eyJ1bml0cyI6W3sidW5pdE5hbWUiOiLmnKrlkb3lkI3ljZXlhYMiLCJjb250ZW50IjoiIiwidW5pdFB1Ymxpc2hGbGFnIjoyLCJ1bml0SWQiOiJjZjJoYWw0MDFpNmN1dm9kaTEwZyIsImFjdGl2aXRpZXMiOltdfV19",
+      "target": null,
+      "download_url": "https://www.teacherin.cn/api/v1/repos/885/3699/download/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1.lms?ref=master",
+      "preview_url": "https://www.teacherin.cn/api/v1/repos/885/3699/preview/%E8%AF%BE%E7%A8%8B%E8%AE%BE%E8%AE%A1.lms?ref=master",
+      "submodule_git_url": null,
+      "file_type": "lms",
+      "updated_time": "2023-01-16T17:13:56+08:00",
+      "course_file_type": 9,
+      "full_path": "课程设计.lms",
+      "file_id": 0,
+      "commit_id": "a0addafb9058576c61bada3688e391d211d3d670",
+      "original_repo_id": 0,
+      "duration": "",
+      "origin_path": ""
+    }
+  ],
+  "message": "ok"
+}

@@ -1,0 +1,916 @@
+{
+  "units": [
+    {
+      "unitName": "平行四边形",
+      "content": "平行四边形及特殊的平行四边形（矩形、菱形、正方形）都是最常见的四边形，本单元是在我们学习了平行线、全等三角形、轴对称图形等知识的基础上进行的学习，是上述内容的后续和深化.",
+      "unitPublishFlag": 2,
+      "unitId": "cdpfmtk01i6etu66pke0",
+      "activities": [
+        {
+          "activityName": "平行四边形大单元整体教学设计",
+          "type": 5,
+          "actPublishFlag": 1,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": [],
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpg2ms01i6a280sega0",
+          "docs": [
+            {
+              "path": "大单元整体教学设计/人教八下平行四边形大单元教学设计.docx",
+              "fileId": 1235849749,
+              "fileSize": 878201,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"31bf9bab9cb53f1b339bcdac717ee046\"}",
+              "duration": ""
+            },
+            {
+              "path": "大单元整体教学设计/平行四边形单元教学(备用）.xlsx",
+              "fileId": 1235914576,
+              "fileSize": 22832,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"81f1ab0bf1f9494ec2221c6274b5320f\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "平行四边形大单元整体资料",
+          "type": 5,
+          "actPublishFlag": 1,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "资料内容包括：电子教材、知识和能力设计、单元思维导图等",
+          "abilityIds": [],
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpg3lc01i6a280segb0",
+          "docs": [
+            {
+              "path": "大单元整体教学设计/电子教材/01 电子教材_平行四边形的性质.pdf",
+              "fileId": 1235819049,
+              "fileSize": 13498957,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"c86e83bda5c6a3b9882e6ead3bb432f7\"}",
+              "duration": ""
+            },
+            {
+              "path": "大单元整体教学设计/电子教材/01 电子教材_平行四边形的判定.pdf",
+              "fileId": 1235876693,
+              "fileSize": 15445264,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"d85cce8cc10f803ac1c67ada6d115d23\"}",
+              "duration": ""
+            },
+            {
+              "path": "大单元整体教学设计/电子教材/01 电子教材_矩形.pdf",
+              "fileId": 1235819151,
+              "fileSize": 6944340,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"081a3a369edbefcb3ddfa3a7ba14675e\"}",
+              "duration": ""
+            },
+            {
+              "path": "大单元整体教学设计/电子教材/01 电子教材_菱形.pdf",
+              "fileId": 1235819174,
+              "fileSize": 5870551,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"4582c0bf4725f3ca9a0ac5060d931f8d\"}",
+              "duration": ""
+            },
+            {
+              "path": "大单元整体教学设计/电子教材/01 电子教材_正方形.pdf",
+              "fileId": 1235895037,
+              "fileSize": 27244520,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"9a6d57e14c00d83c08924a77b789af95\"}",
+              "duration": ""
+            }
+          ],
+          "image": [
+            {
+              "path": "大单元整体教学设计/平行四边形知识思维导图.png",
+              "fileId": 1235876882,
+              "fileSize": 220588,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"1ee2dfa17eb3a4654411cd943d9b3ce2\"}",
+              "duration": ""
+            },
+            {
+              "path": "大单元整体教学设计/平行四边形大单元能力提升设计.png",
+              "fileId": 1235849775,
+              "fileSize": 119833,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"8c5d0756d9e9ad0d5eff347115179eac\"}",
+              "duration": ""
+            },
+            {
+              "path": "大单元整体教学设计/平行四边形大单元知识模块设计.png",
+              "fileId": 1235819197,
+              "fileSize": 58177,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"6639874ae645ae50f0a22f6dedb3016f\"}",
+              "duration": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unitName": "模块一 认识平行四边形家族",
+      "content": "【关注研究对象】\n整体认知  平行四边形家族",
+      "unitPublishFlag": 2,
+      "unitId": "cdpg5ic01i6a280segjg",
+      "activities": [
+        {
+          "activityName": "教师资料（电子教材+授课ppt+课后练习）",
+          "type": 5,
+          "actPublishFlag": 1,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpg5tk01i6a280segn0",
+          "docs": [
+            {
+              "path": "模块一 认识平行四边形家族/02模块一 认识平行四边形家族1.pptx",
+              "fileId": 1235931429,
+              "fileSize": 150022,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"d69efab8930b4cf94791bdf7ba0e2e06\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块一 认识平行四边形家族/02模块一 认识平行四边形家族2.pptx",
+              "fileId": 1235956501,
+              "fileSize": 215518,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"4c4063647513a656fd5d46828b499058\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块一 认识平行四边形家族/03拓展应用 平行四边形法则（解析）.docx",
+              "fileId": 1235984296,
+              "fileSize": 65240,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"d666ee063b70ab156c37b7ba37eb7b4e\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "学生资料（单元学历案+学习活动任务单）",
+          "type": 5,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpg6ck01i6a280segp0",
+          "docs": [
+            {
+              "path": "大单元整体教学设计/初中数学八年级下平行四边形学历案.docx",
+              "fileId": 1235876857,
+              "fileSize": 77199,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"aac7abc85d53456a54da09387873a940\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块一 认识平行四边形家族/01学习活动1-1 整体感知四边形的研究思路.docx",
+              "fileId": 1235931422,
+              "fileSize": 47031,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"8b205fe9ca2a614b11c5179f47c82659\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块一 认识平行四边形家族/学习活动1-2 发现平行四四边形家族.docx",
+              "fileId": 1235931448,
+              "fileSize": 148959,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"2136805423cfcad6d4b137df6d013dbe\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "单元前测 | 回顾三角形的学习经历",
+          "type": 2,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "请完成学习活动任务单1-1，回顾我们学习三角形的学习经验，总结研究三角形的思路与方法.",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpgd0401i6a280segv0"
+        },
+        {
+          "activityName": "课堂生成1 类比三角形的学习生成四边形的研究路径",
+          "type": 1,
+          "actPublishFlag": 2,
+          "duration": 45,
+          "teachMode": 1,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpgdgc01i6a280seh00"
+        },
+        {
+          "activityName": "课堂生成2 认识平行四边形家族成员",
+          "type": 1,
+          "actPublishFlag": 2,
+          "duration": 45,
+          "teachMode": 1,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpgt0s01i6a280seh60"
+        },
+        {
+          "activityName": "课后练习",
+          "type": 2,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "请完成平行四边形相关练习",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpgtp401i6a280seh80"
+        },
+        {
+          "activityName": "拓展应用 | 平行四边形法则",
+          "type": 5,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpgtes01i6a280seh70",
+          "docs": [
+            {
+              "path": "模块一 认识平行四边形家族/03 拓展应用 平行四边形法则（学生）.docx",
+              "fileId": 1235931442,
+              "fileSize": 64743,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"f48976f2e7dd03e900ff22d36320761b\"}",
+              "duration": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unitName": "模块二 揭秘平行四边形家族特征",
+      "content": "【确定研究内容】\n操作探究  平行四边形的家族的性质",
+      "unitPublishFlag": 2,
+      "unitId": "cdpg5tk01i6a280seglg",
+      "activities": [
+        {
+          "activityName": "教师资料（电子教材+授课ppt+课后练习）",
+          "type": 5,
+          "actPublishFlag": 1,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpg75k01i6a280segq0",
+          "docs": [
+            {
+              "path": "模块二 揭秘平行四边形家族特征/02模块二 揭秘平行四边形家族特征1（平行四边形性质）.pptx",
+              "fileId": 1235956563,
+              "fileSize": 376246,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"265db6692af4a831fa7d9dc81903d300\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块二 揭秘平行四边形家族特征/02模块二 揭秘平行四边形家族特征2（矩形性质）.pptx",
+              "fileId": 1235931522,
+              "fileSize": 579110,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"0903047047881645156d4259c7563cdc\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块二 揭秘平行四边形家族特征/02模块二 揭秘平行四边形家族特征3（菱形和正方形性质）.pptx",
+              "fileId": 1235931530,
+              "fileSize": 796618,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"8a5a4d888e0321c6fa4f0b8e8c62259c\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "学生资料（学习活动任务单）",
+          "type": 5,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "本模块共3个学习活动任务单",
+          "abilityIds": null,
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpgc8s01i6a280segu0",
+          "docs": [
+            {
+              "path": "模块二 揭秘平行四边形家族特征/01学习活动2-1 揭秘平行四边形性质.docx",
+              "fileId": 1235910329,
+              "fileSize": 42707,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"e83a8d551d3d4636d917c80e7e147f6c\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块二 揭秘平行四边形家族特征/01学习活动2-3 自主探究：菱形和正方形性质.docx",
+              "fileId": 1235984349,
+              "fileSize": 39561,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"6e4dda3a08630fe27dc82b5fa1e24f77\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块二 揭秘平行四边形家族特征/01学习活动2-2 类比探究：矩形性质.docx",
+              "fileId": 1235984345,
+              "fileSize": 77070,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"f22c2c32cbf2d63787c688f3de075ae4\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "课堂生成1 平形四边形的性质",
+          "type": 1,
+          "actPublishFlag": 2,
+          "duration": 45,
+          "teachMode": 1,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpgvlk01i6a280seh90"
+        },
+        {
+          "activityName": "课堂生成2 矩形的性质",
+          "type": 1,
+          "actPublishFlag": 2,
+          "duration": 45,
+          "teachMode": 1,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpgvqk01i6a280seha0"
+        },
+        {
+          "activityName": "小组探究 | 菱形和正方形的性质",
+          "type": 2,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "1.自主探究菱形和正方形的性质，独立完成学习任务单2-3；\n2.小组合作解决各位组员遇到的问题；\n3.小组总结研究成果和研究方法，准备课堂展示.",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdph0us01i6a280sehb0"
+        },
+        {
+          "activityName": "课堂生成3 小组展示研究成果和方法",
+          "type": 1,
+          "actPublishFlag": 2,
+          "duration": 45,
+          "teachMode": 1,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdph1nk01i6a280sehc0"
+        },
+        {
+          "activityName": "课后练习",
+          "type": 2,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "完成练习专题",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdph2r401i6a280sehe0"
+        },
+        {
+          "activityName": "拓展阅读 | 完美矩形数学史",
+          "type": 5,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "相信你对矩形已经有了一定的了解，那你了解完美矩形吗？",
+          "abilityIds": null,
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdph2ic01i6a280sehd0",
+          "docs": [
+            {
+              "path": "模块二 揭秘平行四边形家族特征/03 拓展 完美矩形.docx",
+              "fileId": 1235956634,
+              "fileSize": 82089,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"5d35afe83bdca3bef8c58a6e55637547\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "567",
+          "type": 4,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "嗯嗯嗯",
+          "abilityIds": [],
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdv0oh401i6d00jrqu1g",
+          "video": [
+            {
+              "path": "[7432] 开篇词  你为什么要选择 TypeScript？【优选课程网www.youxuan68.com】.mp4",
+              "fileId": 1274095209,
+              "fileSize": 134064382,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"e9b98a40543090c000d536d020d4ec29\"}",
+              "duration": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unitName": "模块三 如何判定平形四边形家族",
+      "content": "【提炼研究方法】\n猜想证明  平行四边形的家族的判定",
+      "unitPublishFlag": 2,
+      "unitId": "cdpgffs01i6a280seh0g",
+      "activities": [
+        {
+          "activityName": "教师资料（电子教材+授课ppt+课后练习）",
+          "type": 5,
+          "actPublishFlag": 1,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": [],
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpgfu401i6a280seh30",
+          "docs": [
+            {
+              "path": "模块三 如何判定平行四边形家族/02模块三 如何判定平行四边形家族1（平行四边形）.pptx",
+              "fileId": 1236318023,
+              "fileSize": 242611,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"b836c8f59f75d99d015096c27bee4cf6\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块三 如何判定平行四边形家族/02模块三 如何判定平行四边形家族2（矩形）.pptx",
+              "fileId": 1236268416,
+              "fileSize": 244549,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"dfda64de7f9260645f9cac8213e8f042\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块三 如何判定平行四边形家族/02”我是平行四边形家族代言人“活动评价.docx",
+              "fileId": 1236342058,
+              "fileSize": 12126,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"aa0db300caa33a7c3441940bb68b2bc8\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块三 如何判定平行四边形家族/03 拓展应用 丝巾是正方形的吗(解析）.docx",
+              "fileId": 1236318039,
+              "fileSize": 27314,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"9291199572c51fbf43c6199139f4ac61\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块三 如何判定平行四边形家族/02模块三 如何判定平行四边形家族3（菱形和正方形）.pptx",
+              "fileId": 1239632143,
+              "fileSize": 271714,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"7e533e6fbb8085939a3445189a7990c5\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "学生资料（学习任务单）",
+          "type": 5,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "本模块分3个课时，需完成3个学习任务单",
+          "abilityIds": null,
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpin8s01i6a280sehg0",
+          "docs": [
+            {
+              "path": "模块三 如何判定平行四边形家族/01学习活动3-1 判定平行四边形.docx",
+              "fileId": 1236369934,
+              "fileSize": 24581,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"e8d3e8fe04f56327dfdd94c9b4655e75\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块三 如何判定平行四边形家族/01学习活动3-2 类比判定矩形.docx",
+              "fileId": 1236318003,
+              "fileSize": 81366,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"e8c731fdfb72c443e2680259b5d83515\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块三 如何判定平行四边形家族/01学习活动3-3 小组合作：判定菱形和正方形.docx",
+              "fileId": 1236318009,
+              "fileSize": 17279,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"236ee8662a22e08d3f2cd4fa0319e533\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "课堂生成1 平行四边形的判定",
+          "type": 1,
+          "actPublishFlag": 2,
+          "duration": 45,
+          "teachMode": 1,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdping401i6a280sehh0"
+        },
+        {
+          "activityName": "课堂生成2 矩形的判定",
+          "type": 1,
+          "actPublishFlag": 2,
+          "duration": 45,
+          "teachMode": 1,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpinks01i6a280sehi0"
+        },
+        {
+          "activityName": "小组探究 | 菱形和正方形的判定",
+          "type": 2,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "1.自主探究菱形和正方形的性质，独立完成学习任务单2-3；\n2.小组合作解决各位组员遇到的问题；\n3.小组总结研究成果和研究方法，准备课堂展示.",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpio6s01i6a280sehj0"
+        },
+        {
+          "activityName": "课堂生成3 小组展示研究成果和方法",
+          "type": 1,
+          "actPublishFlag": 2,
+          "duration": 45,
+          "teachMode": 1,
+          "paperInfo": "",
+          "abilityIds": [
+            "sq4t21gayyknq7kvggc0"
+          ],
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpiods01i6a280sehk0"
+        },
+        {
+          "activityName": "课后练习",
+          "type": 2,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "请完成平行四边形家族的判定练习",
+          "abilityIds": [],
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpj9bc01i6a280sehp0"
+        },
+        {
+          "activityName": "拓展思考 | 丝巾是正方形的吗",
+          "type": 5,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpiorc01i6a280sehl0",
+          "docs": [
+            {
+              "path": "模块三 如何判定平行四边形家族/03 拓展思考 丝巾是正方形的吗（学生）.docx",
+              "fileId": 1236369976,
+              "fileSize": 13854,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"ecd16dc507f1038502e86effc8a7c567\"}",
+              "duration": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unitName": "模块四  体系重构 迁移提升",
+      "content": "【归纳研究思路】【形成研究结果】\n总结平行四边形的一般思路，如何研究一个新的几何图形？",
+      "unitPublishFlag": 2,
+      "unitId": "cdpgfts01i6a280seh1g",
+      "activities": [
+        {
+          "activityName": "教师资料（电子教材+授课ppt+课后练习）",
+          "type": 5,
+          "actPublishFlag": 1,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": [],
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpggrc01i6a280seh40",
+          "docs": [
+            {
+              "path": "模块四 体系重构 迁移提升/02模块四 体系重构，迁移提升1.pptx",
+              "fileId": 1236237215,
+              "fileSize": 370177,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"8092d2832819a1eb46cd33b2cef30f21\"}",
+              "duration": ""
+            },
+            {
+              "path": "模块四 体系重构 迁移提升/03筝形探究实验单（教师）.docx",
+              "fileId": 1236342334,
+              "fileSize": 393629,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"c86c9fe9c5d3df5e8a3f4f8249faa41c\"}",
+              "duration": ""
+            }
+          ],
+          "image": [
+            {
+              "path": "模块四 体系重构 迁移提升/05平行四边形单元思维导图.jpg",
+              "fileId": 1236326511,
+              "fileSize": 490488,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"89ae7f68cb220c52f3139d6497c56691\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "学生资料（学习任务单）",
+          "type": 5,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdpgh1k01i6a280seh50",
+          "docs": [
+            {
+              "path": "模块四 体系重构 迁移提升/01学习活动4-1 迁移提升（三角形中位线定理+中点四边形）.docx",
+              "fileId": 1236342315,
+              "fileSize": 118045,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"a31aacd8658d62bb13a893ee9ff7d494\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "课堂生成1 四边形与三角形的转化思想",
+          "type": 1,
+          "actPublishFlag": 2,
+          "duration": 45,
+          "teachMode": 1,
+          "paperInfo": "",
+          "abilityIds": [
+            "g6zb3z2jeg11ma51w160"
+          ],
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpipu401i6a280sehm0"
+        },
+        {
+          "activityName": "课堂生成2 单元重构 迁移提升",
+          "type": 1,
+          "actPublishFlag": 2,
+          "duration": 45,
+          "teachMode": 1,
+          "paperInfo": "",
+          "abilityIds": null,
+          "fullScore": 100,
+          "customScoreId": "1",
+          "systemScore": {},
+          "activityId": "cdpiq5s01i6a280sehn0"
+        },
+        {
+          "activityName": "单元作业 | 迁移学习经验研究筝形",
+          "type": 2,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "desc": "请你应用本单元的学习经验，对筝形进行探究，并总结研究一个几何图形的一般思路",
+          "abilityIds": [
+            "jd5wbmgz414wqe7rr730"
+          ],
+          "fullScore": 100,
+          "customScoreId": "ne0dc116m8memmf9nsw0",
+          "systemScore": {},
+          "activityId": "cdpiro401i6a280seho0",
+          "docs": [
+            {
+              "path": "模块四 体系重构 迁移提升/03筝形探究实验单（学生）.docx",
+              "fileId": 1236318281,
+              "fileSize": 281892,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"897aa00ef5af33791fbf2af970d34ef0\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "78909",
+          "type": 4,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": [],
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdv0psc01i6d00jrqu2g",
+          "video": [
+            {
+              "path": "[7433] 01  如何快速搭建 TypeScript 学习开发环境？【优选课程网www.youxuan68.com】.mp4",
+              "fileId": 1274143051,
+              "fileSize": 146913349,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"6cee93c1063b93e921f75800275dde93\"}",
+              "duration": ""
+            }
+          ]
+        },
+        {
+          "activityName": "111",
+          "type": 4,
+          "actPublishFlag": 2,
+          "duration": 0,
+          "teachMode": 0,
+          "paperInfo": "",
+          "abilityIds": [],
+          "fullScore": 0,
+          "customScoreId": "",
+          "systemScore": {},
+          "activityId": "cdv0svs01i6d00jrqu3g",
+          "video": [
+            {
+              "path": "[7452] 20  如何将 JavaScript 应用切换至 TypeScript？【优选课程网www.youxuan68.com】.mp4",
+              "fileId": 1274284485,
+              "fileSize": 158005946,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"1749ac7feebdd45202b132ceea08b8c2\"}",
+              "duration": ""
+            },
+            {
+              "path": "[7441] 09  枚举类型：详解常见枚举类型的 7 种用法【优选课程网www.youxuan68.com】(1).mp4",
+              "fileId": 1274649251,
+              "fileSize": 143368416,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"660b19d58df83e543a525f541d805671\"}",
+              "duration": "00:16:39"
+            },
+            {
+              "path": "[7449] 17  来自 100 +项目经历的常见 TypeScript 错误汇总分析【优选课程网www.youxuan68.com】.mp4",
+              "fileId": 1274789136,
+              "fileSize": 111386484,
+              "fileType": "ecos",
+              "resourceId": "",
+              "extra": "{\"md5\":\"22ffba29c5f3fb79f3c9df35ed6e9361\"}",
+              "duration": "00:11:58"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
