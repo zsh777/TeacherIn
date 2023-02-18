@@ -1,5 +1,5 @@
 <template>
-  <div class="course-info-wrap pt-3">
+  <div class="course-info-wrap pt-3" v-if="item.owner">
     <div class="mb-10">
       <h3 class="text-gray-900 text-base mb-5 font-medium dark:text-gray-400">课程所属</h3>
       <div>

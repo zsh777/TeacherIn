@@ -12,16 +12,10 @@
               <div class="relative md:mr-0 w-full overflow-hidden whitespace-pre-wrap">
                 <div class="w-full">
                   <div class="round">
-                    <div class="flex justify-between items-center pt-3 pb-[18px] pr-4 dark:bg-black-000">
-                      <div class="font-medium text-xl dark:text-gray-25">课程文件</div>
-                    </div>
-                    <div class="border-[#E3E4E5] border rounded-b border-t-transparent">
-                      <router-view></router-view>
-                      <!-- <Table :tableData="tableData" :tableLabel="tableLabel"></Table> -->
-                    </div>
+                    <router-view></router-view>
                   </div>
                   <div class="pb-[100px] mt-[42px]">
-                    <Collapse :item="item">
+                    <Collapse :item="item" @resSearch="res">
                     </Collapse>
                   </div>
                 </div>
@@ -66,6 +60,16 @@ export default {
     })
   },
   methods: {
+    res(data, data1) {
+      if (data1 !== '') {
+        this.item = data
+      } else if (data1 === '') {
+        getContents123(null).then((res) => {
+          this.item = res.data.units
+        })
+      }
+      // this.item = res
+    }
   }
 }
 </script>

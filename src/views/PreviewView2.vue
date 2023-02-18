@@ -6,6 +6,7 @@
 <script>
 import { getContents } from '../api/api'
 import Table from '../components/TableComponent.vue'
+
 export default {
   name: 'HomeView',
   components: {
@@ -30,16 +31,11 @@ export default {
           prop: 'updated_time',
           width: '160px'
         },
-        {
-          url: 'url',
-          prop: 'url'
-        }
       ]
     }
   },
   mounted() {
     getContents(null).then((res) => {
-      console.log("getContents", res.data.data)
       this.tableData = res.data.data
     })
   },

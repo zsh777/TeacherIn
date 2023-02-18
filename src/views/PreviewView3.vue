@@ -1,10 +1,10 @@
 <template>
   <div>
-    <Table :tableData="tableData" :tableLabel="tableLabel"></Table>
+    <Table :tableData="tableData" :tableLabel="tableLabel">
+    </Table>
   </div>
 </template>
 <script>
-import { getContents1 } from '../api/api'
 import Table from '../components/TableComponent.vue'
 export default {
   name: 'HomeView',
@@ -34,9 +34,7 @@ export default {
     }
   },
   mounted() {
-    getContents1(null).then((res) => {
-      this.tableData = res.data.data
-    })
+    this.tableData = this.$route.params.children
   },
   methods: {
   }
